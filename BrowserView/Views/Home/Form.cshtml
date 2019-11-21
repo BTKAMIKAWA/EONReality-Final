@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form action="javascript:void(0);" method="POST" onsubmit="addUser()">
+    <div>
+        <label for="name">Name</label>
+        <input for="name" type="text" id="add-name" />
+    </div>
+    <div>
+        <label for="email">Email</label>
+        <input for="email" type="email" id="add-email" />
+    </div>    
+    <div>
+        <label for="male">Male</label>
+        <input type="radio" value="male" name="gEnder" id="add-male" />
+        <label for="female">Female</label>
+        <input type="radio" value="female" name="gEnder" id="add-female"/>
+    </div>
+    <div>
+        <label for="dateRegistered">Date Registered</label>
+        <input for="dateRegistered" type="date" id="add-date" />
+    </div>
+    <div>
+        <label for="additionalRequest">Additional Request</label>
+        <input for="additionalRequest" type="text" id="add-request" />
+    </div>
+    <input type="submit" value="Add" />
+</form>
+<script type="text/javascript" src="~/js/site.js" asp-append-version="true"></script>

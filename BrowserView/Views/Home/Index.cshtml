@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="~/css/site.css" rel="stylesheet" />
+
+
+<body>
+    <img style="width: 200px" src="~/eon.jpg" />
+    <a class="nav-link link-button" asp-area="" asp-controller="Home" asp-action="Form">Register</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Date Reg</th>
+                <th scope="col">Additional Req</th>
+            </tr>
+        </thead>
+        <tbody id="root"></tbody>
+    </table>
+    <script src="~/js/site.js"></script>
+</body>

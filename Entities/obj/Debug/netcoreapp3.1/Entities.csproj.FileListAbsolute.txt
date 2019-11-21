@@ -1,0 +1,16 @@
+C:\Users\brian\source\repos\EonReality\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\brian\source\repos\EonReality\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\brian\source\repos\EonReality\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\EonReality\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\EonReality\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\brian\source\repos\EonReality\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\brian\source\repos\EonReality\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\brian\source\repos\EonReality\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\brian\source\repos\EonRealityFull-master\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
